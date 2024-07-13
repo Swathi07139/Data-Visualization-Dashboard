@@ -1,2 +1,4 @@
 # Data-Visualization-Dashboard
-Its an Data visulation dashboard using Spring 
+frontend tools - react 
+backend - java SpringBoot ,
+Postgresql or MySql
